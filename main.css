@@ -1,0 +1,134 @@
+body{
+	background-color:khaki;
+	font-size: 18px;
+	color:rgb(0, 0, 0);
+	align-items: center;
+	text-align: center;
+	font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+nav{
+	background-color: rgb(255, 255, 255);
+	width:100%;
+	height: 40px;
+	overflow:hidden;
+	opacity:0.6;
+	transition-duration:0.6s;   
+}
+ul{
+	margin:0px;
+}
+li{
+	float:left;
+	width: 20%;
+	text-align: center;
+	color:orange;
+	list-style: none;
+	margin-top:-30px;
+	transition-duration: 0.6s;
+}
+li:hover{
+	margin-top:15px;
+}
+.icon{
+	width: 30px;
+	height: 30px;
+}
+.capa_ico{
+	width: 100%;
+	height: 25px;
+	float:left;
+	text-align: center;
+	padding: 5px 0 5px 0;
+	cursor:pointer;
+	position:relative;
+	top:-15px;
+}
+.info{
+	text-align: center;
+}
+.direccion{
+	color: orange;
+	text-align: center;
+}
+.horario{
+	text-align: center;
+	color: orange;
+}
+.imagen1{
+	position: relative;
+	width: 600px;
+	height: 400px;
+	top:200px;
+	left: 300px;
+}
+.imagen2{
+	position: relative;
+	width: 600px;
+	height: 400px;
+	bottom: 200px;
+	right:300px;
+}
+.imagen_ceo2{
+	width: 300px;
+	height: 300px;
+}
+.quienesomos{
+	color: orange;
+}
+.imagenservicio{
+	width: 50px;
+	height: 50px;
+}
+.conocenos1{
+    text-align: left;
+}
+.imageninstalaciones{
+	width: 50;
+	height: 50;
+	align-items: initial;
+
+}
+.conocenos2{
+	text-align: left;
+	padding-top: 0%;
+}
+.imagenvuelta{
+	position: relative;
+	width: 50px;
+	height: 50px;
+	right: 920px;
+	top: 10px;
+}
+.imagenlogo{
+	position: relative;
+	width: 300px;
+	height: 150px;
+	top: 200px;
+	left: 170px;
+}
+.ordenadores{
+	width: 100px;
+	height: 100px;
+}
+.ordenadorestitulo{
+	color: blue;
+}
+.precio{
+	color: black;
+	text-decoration-line: underline;
+}
+.textarea{
+	resize: none;
+}
+.ordenadorvideo{
+	position: relative;
+	top: 100px;
+	width: 1000px;
+	height: 500px;
+}
+.borde {
+	border: red 10px groove;
+	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+	font-size: 40px;
+  }
+
